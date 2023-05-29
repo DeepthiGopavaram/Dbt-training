@@ -1,4 +1,5 @@
 version: 2
+
 sources:
   - name: globalmart
     description: a clone of the snowflake Database
